@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">English for Kids</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8695636775775867/2961744234</string>
+    <string-array name="movies_name_easy">
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Corn</item>
+        <item>Banana</item>
+        <item>Ginger</item>
+        <item>South Africa</item>
+        <item>Grape</item>
+        <item>Sunflower</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+        <item>Elephant</item>
+        <item>Star</item>
+        <item>Jasmine</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>France</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Tomato</item>
+        <item>Pentagon</item>
+        <item>Cabbage</item>
+        <item>Carrot</item>
+        <item>Triangle</item>
+        <item>Pakistan</item>
+
+        <item>Panda</item>
+        <item>Kangaroo</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+    </string-array>
+
+    <string name="Canada">He is drawn into a terrifying alternate reality that holds answers to the nightmares that have plagued her since childhood.</string>
+    <string name="China">A televised fight to the death in which two teenagers from each of the twelve Districts of Panem are chosen at random to compete.</string>
+    <string name="France">The Nazis set up a secret base on the moon in 1945 where they hide out and plan to return to power in 2018.</string>
+    <string name="UnitedKingdom">A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. </string>
+    <string name="UnitedStates">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Tomato">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Pentagon">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Panda">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Kangaroo">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Lion">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Monkey">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+
+
+    <string name="Cabbage">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Carrot">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Triangle">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Pakistan">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+
+
+    <string-array name="monkey">
+        <item>Camel</item>
+        <item>Panda</item>
+        <item>Monkey</item>
+        <item>Cat</item>
+    </string-array>
+    <string-array name="panda">
+        <item>Panda</item>
+        <item>Bear</item>
+        <item>Kangaroo</item>
+        <item>Lion</item>
+    </string-array>
+    <string-array name="kangaroo">
+        <item>Kangaroo</item>
+        <item>Panda</item>
+        <item>Bear</item>
+        <item>Monkey</item>
+    </string-array>
+    <string-array name="lion">
+        <item>Bear</item>
+        <item>Cat</item>
+        <item>Lion</item>
+        <item>Antelope</item>
+    </string-array>
+
+
+    <string-array name="canada">
+        <item>Algeria</item>
+        <item>Canada</item>
+        <item>Pentagon</item>
+        <item>Pakistan</item>
+    </string-array>
+
+    <string-array name="china">
+        <item>Algeria</item>
+        <item>China</item>
+        <item>Srilanka</item>
+        <item>Spain</item>
+    </string-array>
+    <string-array name="france">
+        <item>Portugal</item>
+        <item>Canada</item>
+        <item>France</item>
+        <item>Triangle</item>
+    </string-array>
+    <string-array name="unitedkingdom">
+        <item>United Kingdom</item>
+        <item>Bangladesh</item>
+        <item>Saudi Arabia</item>
+        <item>Australia</item>
+    </string-array>
+    <string-array name="pentagon">
+        <item>Pentagon</item>
+        <item>Oval</item>
+        <item>Hexagon</item>
+        <item>Circle</item>
+    </string-array>
+
+    <string-array name="tomato">
+        <item>Pomegranate</item>
+        <item>Watermelon</item>
+        <item>Tomato</item>
+        <item>Carrot</item>
+    </string-array>
+    <string-array name="cabbage">
+        <item>Cabbage</item>
+        <item>Carrot</item>
+        <item>Garlic</item>
+        <item>Diamond</item>
+    </string-array>
+    <string-array name="carrot">
+        <item>Carrot</item>
+        <item>Bittergourd</item>
+        <item>Belgium</item>
+        <item>Bellpepper</item>
+    </string-array>
+    <string-array name="triangle">
+        <item>Triangle</item>
+        <item>Hexagon</item>
+        <item>Oval</item>
+        <item>Star</item>
+    </string-array>
+    <string-array name="unitedstates">
+        <item>Algeria</item>
+        <item>United States</item>
+        <item>Belgium</item>
+        <item>Brunei</item>
+    </string-array>
+    <string-array name="pakistan">
+        <item>Algeria</item>
+        <item>Pakistan</item>
+        <item>Belgium</item>
+        <item>Albania</item>
+    </string-array>
+
+    <string-array name="apple">
+        <item>Banana</item>
+        <item>Grape</item>
+        <item>Apple</item>
+        <item>Rectangle</item>
+    </string-array>
+
+    <string-array name="apricot">
+        <item>Jasmine</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+        <item>Apricot</item>
+    </string-array>
+
+
+    <string-array name="corn">
+        <item>Pineapple</item>
+        <item>Corn</item>
+        <item>Turnip</item>
+        <item>Rectangle</item>
+    </string-array>
+
+
+    <string-array name="banana">
+        <item>Pomegranate</item>
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Daffodil</item>
+    </string-array>
+
+    <string-array name="ginger">
+        <item>Turnip</item>
+        <item>Grape</item>
+        <item>Ginger</item>
+        <item>Tomato</item>
+    </string-array>
+
+    <string-array name="southafrica">
+        <item>South Africa</item>
+        <item>Poland</item>
+        <item>Srilanka</item>
+        <item>Spain</item>
+    </string-array>
+
+
+    <string-array name="grape">
+        <item>Pineapple</item>
+        <item>Grape</item>
+        <item>Apple</item>
+        <item>Ladyfinger</item>
+    </string-array>
+
+
+    <string-array name="sunflower">
+        <item>Banana</item>
+        <item>Jasmine</item>
+        <item>Sunflower</item>
+        <item>Daisy</item>
+    </string-array>
+
+    <string-array name="strawberry">
+        <item>Banana</item>
+        <item>Grape</item>
+        <item>Apple</item>
+        <item>Strawberry</item>
+    </string-array>
+
+
+    <string-array name="watermelon">
+        <item>Coconut</item>
+        <item>Grape</item>
+        <item>Cherry</item>
+        <item>Watermelon</item>
+    </string-array>
+    <string-array name="elephant">
+        <item>Dog</item>
+        <item>Bear</item>
+        <item>Elephant</item>
+        <item>Crocodile</item>
+    </string-array>
+
+    <string-array name="star">
+        <item>Square</item>
+        <item>Triangle</item>
+        <item>Apple</item>
+        <item>Star</item>
+    </string-array>
+    <string-array name="jasmine">
+        <item>Sunflower</item>
+        <item>Daffodil</item>
+        <item>Watermelon</item>
+        <item>Jasmine</item>
+    </string-array>
+
+
+    <string name="Star">He is drawn into a terrifying alternate reality that holds answers to the nightmares that have plagued her since childhood.</string>
+    <string name="Jasmine">A televised fight to the death in which two teenagers from each of the twelve Districts of Panem are chosen at random to compete.</string>
+    <string name="Elephant">The Nazis set up a secret base on the moon in 1945 where they hide out and plan to return to power in 2018.</string>
+    <string name="Watermelon">A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. </string>
+    <string name="Grape">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="SouthAfrica">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Corn">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Sunflower">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Ginger">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Banana">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Apple">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Apricot">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+    <string name="Strawberry">Survivors of a nuclear attack are grouped together for days in the basement, where fear and dwindling supplies wear away at their dynamic.</string>
+
+
+</resources>
